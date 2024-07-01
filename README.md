@@ -9,4 +9,4 @@ Description is forthcoming
 
 # Image
 
-![first image](assets/Navigation Information.PNG)
+![first image](assets/Navigation Information.png)
