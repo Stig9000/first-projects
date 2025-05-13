@@ -1,17 +1,18 @@
-# first-project
+# Data Science Projects
 
 # Heading 1
-Description is forthcoming
-
+Please find all my projects that can be utilised in Python to meet business use cases such as:
+* Customer Segmentation
+* Sentiment Analysis
+* Predicting Customer Churn
+  
 ## Heading 2
 
 ## Heading 3
 
 # Image
 
-![first](assets/Navigation-Information.PNG)
 
 
 # URL link
 
-[BPP recordings](https://learn.bpp.com/mod/connecthosted/viewrecordings.php?id=893219&groupid=0)
